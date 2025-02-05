@@ -1,0 +1,7 @@
+Direcciones
+Base de datos:
+http://localhost/phpmyadmin/
+Paginas:
+http://localhost/codigo/registro.html
+http://localhost/codigo/login.php
+http://localhost/codigo/inicio.html
